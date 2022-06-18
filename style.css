@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Clear fix hack */
+  .clearfix:after {
+       content: ".";
+       display: block;
+       clear: both;
+       visibility: hidden;
+       line-height: 0;
+       height: 0;
+  }
+  
+  .instaBox{
+    width: 40% !important;
+  }
+  .clear {
+      clear: both;
+  }
+  
+  /******************************************
+  /* BASE STYLES
+  /*******************************************/
+  .mainImg { max-width:100%;
+    max-height:100%;}
+  
+  .bookmarkIcn{
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  
+
+  body{
+    background-color: black !important;
+  }
+
+
+.white{background-color: white;}
+

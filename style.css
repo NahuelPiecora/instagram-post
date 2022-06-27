@@ -41,5 +41,13 @@
   }
 
 
-.white{background-color: white;}
+.white{background-color: white;
+padding-top: 2%;}
+
+
+
+
+.icon{
+  font-weight: bolder;
+}
 
